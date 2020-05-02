@@ -53,7 +53,8 @@ In this analysis, the main takeaways:
 - **Starbucks** for providing the datasets
 
 
-
+## Post to Medium
+https://medium.com/@huseyinelci2000/the-importance-of-data-visualization-bba9fcaa67a3
 
 
 
