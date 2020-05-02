@@ -49,9 +49,8 @@ KMeans is used to build the cluster. As a result,  4 group of customers with a q
 
 <a name="ca"></a>
 ## 5. Credits and Acknowledgements
-- Udacity for providing such a complete Data Science Nanodegree Program
-- Starbucks for providing the datasets
-- https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+- **Udacity** for providing such a complete Data Science Nanodegree Program
+- **Starbucks** for providing the datasets
 
 
 
