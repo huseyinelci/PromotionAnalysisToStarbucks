@@ -49,7 +49,6 @@ In this analysis, the main takeaways:
 
 <a name="5"></a>
 ## 5. Credits and Acknowledgements
-- **Udacity** for providing such a complete Data Science Nanodegree Program
 - **Starbucks** for providing the datasets
 
 
